@@ -1,0 +1,6 @@
+{
+  "name": "Reddit 사용 방법 - 초보자를 위한 완벽 가이드",
+  "description": "Reddit 가입부터 첫 글 작성, 서브레딧 탐색, 피드 맞춤화, 프로필 커스텀까지 초보자를 위한 완벽 다국어 입문 가이드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
